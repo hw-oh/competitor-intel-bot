@@ -29,6 +29,9 @@ jobs:
       - name: Install dependencies
         run: pip install -e .
 
+      - name: Install Playwright browsers
+        run: playwright install --with-deps chromium
+
       - name: Publish prompts to Weave
         env:
           WANDB_API_KEY: ${{ secrets.WANDB_API_KEY }}

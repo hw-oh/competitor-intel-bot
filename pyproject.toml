@@ -13,6 +13,7 @@ dependencies = [
     "wandb-workspaces>=0.3",
     "weave>=0.51",
     "crewai[tools]>=1.9",
+    "litellm",
     "markdown>=3.5",
     "playwright>=1.40",
 ]
