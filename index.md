@@ -7,17 +7,17 @@ title: LLM Observability Market Research
 
 <!-- LATEST_REPORT_START -->
 
-[📋 Latest Report (2026-02-27)](./reports/2026-02-27.md)
+[📋 Latest Report (2026-05-04)](./reports/2026-05-04.md)
 
 
-- **LangSmith**: Continues to deliver exceptional ecosystem integration and detailed execution tracing natively for LangChain and LangGraph workflows, boasting strong enterprise deployment options.
-- **Arize Phoenix**: A powerful OpenTelemetry-native solution optimizing generative AI tracking and evaluation pipelines through intuitive prompt sandboxing and diverse LLM-as-a-judge frameworks.
-- **Langfuse**: Expanded its robust evaluation toolkit this week by introducing Versioned Datasets, enhancing testing reproducibility while retaining its highly scalable open-source foundation.
-- **Braintrust**: Enhanced its operational visibility this week with new AI-powered Topic Maps for automated log filtering and grouping, complementing its strong code-first enterprise evaluation engine.
-- **W&B Weave**: Provides comprehensive multimodal support and deeply integrated experiment rollbacks seamlessly coupled to the Weights & Biases ML registry.
-- **MLflow**: Shipped a massive update this week, natively introducing Distributed Tracing, a new Judge Builder UI, MemAlign Optimizer, Multi-Workspace Support, and Agent Performance Dashboards.
+- **LangSmith**: Continues to offer deeply integrated agent tracing and evaluation for the LangChain ecosystem, with comprehensive nested span visualization natively.
+- **Arize Phoenix**: Broadened its framework support by augmenting auto-instrumentation with new TanStack AI Instrumentation for capturing both streaming and non-streaming chat calls.
+- **Braintrust**: Standardizes complex evaluation workflows and dataset management through rigorous AI-assisted prompt optimization and custom scorer routing.
+- **Langfuse**: Strengthened enterprise data sovereignty and compliance offerings this week by introducing Dedicated Cloud Regions to isolate critical traces, prompts, and evaluation data.
+- **W&B Weave**: Delivers powerful dashboard analytics and native multimodal tracing, integrating seamlessly with traditional model lifecycle tracking environments.
+- **MLflow**: Released a wave of significant updates this week, enhancing observability and cost controls with a new Trace Graph View, AI-driven failure detection (Detect Issues), GenAI Semantic Conventions for OTEL, and Gateway Budget Policies.
 
-> The market is rapidly shifting toward specialized agent flow tracing and scalable no-code evaluation builders, with platforms aggressively adopting automated AI-driven judge optimizations and standardized OpenTelemetry architectures.
+> The LLM observability market is increasingly prioritizing fine-grained enterprise controls and deep agentic visual debugging, as evidenced by new cost-management gateway policies and specialized trace graph views for complex multi-turn flows.
 
 
 <!-- LATEST_REPORT_END -->
@@ -28,9 +28,12 @@ title: LLM Observability Market Research
 
 | Date | Report |
 |------|--------|
+| 2026-05-04 | [View Report](./reports/2026-05-04.md) |
 | 2026-02-27 | [View Report](./reports/2026-02-27.md) |
 | 2026-02-26 | [View Report](./reports/2026-02-26.md) |
 | 2026-02-25 | [View Report](./reports/2026-02-25.md) |
+| 2026-02-23 | [View Report](./reports/2026-02-23.md) |
+| 2026-02-16 | [View Report](./reports/2026-02-16.md) |
 | 2026-02-13 | [View Report](./reports/2026-02-13.md) |
 | 2026-02-12 | [View Report](./reports/2026-02-12.md) |
 | 2026-02-11 | [View Report](./reports/2026-02-11.md) |
